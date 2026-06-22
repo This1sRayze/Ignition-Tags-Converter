@@ -1,4 +1,4 @@
-# Ignition Tags Generator
+# Ignition Tags Converter
 
 A modern GUI application for converting Excel spreadsheets into Ignition OPC UA tag configurations in JSON format.
 
